@@ -1,0 +1,323 @@
+@charset "utf-8";
+
+
+.principal .cabecera {
+    width: 100%;
+    height: 60px;
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.principal {
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.principal .menu {
+    width: 100%;
+    height: 40px;
+    background-color: #989898;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 15px;
+	
+	
+}
+
+.principal .menu_lateral {
+    border-radius: 8px;
+    width: 40%;
+    height: 300px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-top: 27px;
+    margin-bottom: 102px;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    font-size: 35px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(
+../../Downloads/free-30-instagram-stories-icons53_122600%20(1).png);
+    background-size: 1px 30px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    background-position: 30px 0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(
+../../Downloads/free-30-instagram-stories-icons53_122600%20(1).png);
+    background-image: url(
+../../Downloads/free-30-instagram-stories-icons53_122600%20(1).png);
+    background-color: #E8F0F0;
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(
+../../Downloads/pet_animal_pedigree_badge_pawprint_icon_124629%20(1).png);
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-indent: 10px;
+}
+.principal .publicacion {
+    width: 55%;
+    background-color: #74DEFE;
+    float: right;
+    height: 300px;
+    border-radius: 5px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 25px;
+}
+.principal .publicacion .articulo3 {
+    border-radius: 5px;
+    width: 46%;
+    height: 219px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #FDFDFD;
+    float: right;
+    margin-top: 14px;
+    margin-right: 9px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+}
+
+.principal .publicacion .articulo2 {
+    width: 45%;
+    background-color: #C6FFE1;
+    height: 219px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 19px;
+    border-radius: 5px;
+    float: left;
+    color: #0011A8;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.principal .publicacion .articulo1 {
+    width: 100%;
+    height: 60px;
+    background-color: #036C8C;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 13px;
+    border-radius: 5px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.principal .pie_de_pagina {
+    width: 100%;
+    background-color: grey;
+    clear: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: #F5F5F5;
+    list-style-position: outside;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: left;
+    font-size: 10px;
+    height: 250px;
+    font-style: normal;
+    float: right;
+}
+.pie_de_pagina ol li {
+    color: #000000;
+    font-size: 10px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: left;
+    font-weight: bold;
+    float: none;
+    margin-left: -29px;
+    margin-right: 24px;
+	
+}
+
+
+
+
+body {
+	
+}
+.principal .menu a {
+    width: 60%;
+    height: 10px;
+    background-color: #969696;
+    margin-right: 60px;
+	eft: -1em;
+    top: 50%;
+    margin-top: -.5em;
+    transition: all .3s ease-out; 
+}
+
+
+.principal .menu a {
+    color: #FEFEFE;
+    font-style: normal;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.principal .menu_lateral table {
+    color: #1E79E6;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+    margin-right: 60px;
+    margin-left: 80px;
+}
+.principal .menu_lateral p {
+    color: #3876FF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+.principal .menu_lateral .articulo4 {
+    background-color: #007185;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.pie_de_pagina p img {
+    margin-left: 475px;
+    margin-right: -418px;
+}
+.principal .pie_de_pagina p {
+}
+.principal .pie_de_pagina h6 {
+    font-size: 10px;
+}

@@ -1,0 +1,64 @@
+@charset "utf-8";
+header /*Agregamos la letra deseada y el color de fondo al header*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: darkcyan;
+}
+
+body /*Agregamos estilo de letra al body*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+table
+{
+ background-color: #9FD4D4;
+ text-emphasis: center;
+ white: 100%;	 
+ font-family: Arial;
+}
+
+
+footer /*Agregamos estilo de letra y color al footer*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: grey;
+}
+tr:hover{
+	background-color: #60B7B7;
+	color: black;
+}
+
+
+h1, h4 
+{
+	color: whitesmoke;
+}
+
+a:visited 
+{
+  color: whitesmoke;
+}
+
+/* mouse sobre link */
+a:hover 
+{
+  color:blue;
+}
+
+h2
+{
+	font-size: 30px;
+	color: darkcyan;
+}
+
+#producto
+{
+width: 230px;
+height: auto;
+border-radius:5%;
+
+}
+
+
+

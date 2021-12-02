@@ -1,0 +1,52 @@
+@charset "utf-8";
+header /*Con esto estoy agregando propiedades como estilo de letra y color al header*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: darkcyan;
+}
+
+body /*Agregamos estilo de letra al body*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+footer /*Agregamos estilo de letra y color al footer*/
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: grey;
+}
+
+h1, h4 
+{
+	color: whitesmoke;
+}
+
+a:visited 
+{
+  color: whitesmoke;
+}
+
+/* mouse sobre link */
+a:hover 
+{
+  color:blue;
+}
+
+h2
+{
+	font-size: 30px;
+	color: darkcyan;
+}
+
+h3
+{
+	font-family: lucida handwriting;
+	font-size: 14px;
+}
+
+li
+{
+	margin-top: 5px;
+	margin-right: 10px;
+	list-style: none;
+}	
